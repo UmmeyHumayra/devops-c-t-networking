@@ -22,7 +22,7 @@ sudo ip link add r-eth type veth peer name g-eth
 sudo ip link set r-eth netns red
 sudo ip link set g-eth netns green
 ```
-#### 2c. Set ip address to red interface
+#### 2c. Set ip addresses to both interfaces
 ```
 sudo ip netns exec red ip addr add 10.10.1.1/24 dev r-eth
 sudo ip netns exec green ip addr add 10.10.1.2/24 dev g-eth 

@@ -66,8 +66,7 @@ ummey_poney@vx-test-vm1:~$ ip a | grep vxlan
 ```
 ummey_poney@vx-test-vm1:~$ sudo ip link set my-vxlan-demo up
 ummey_poney@vx-test-vm1:~$ sudo brctl addif br-ca62e0c9155f my-vxlan-demo
-ummey_poney@vx-test-vm1:~$ sudo apt install net-tools
-ummey_poney@vx-test-vm1:~$ route -n
+ummey_poney@vx-test-vm1:~$ sudo apt install net-toolsummey_poney@vx-test-vm1:~$ route -n
 ```
 Kernel IP routing table
 Destination     Gateway         Genmask         Flags Metric Ref    Use Iface

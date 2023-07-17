@@ -4,7 +4,7 @@
 1. Create two containers and connect them using vxlan
 
 Block diagram: 
-![Project Diagram]()
+![Project Diagram](https://github.com/UmmeyHumayra/devops-c-t-networking/blob/assignment/Vxlan_lab_docker.jpg)
 
 ### Steps: 
 ####  Update linux ubuntu VM

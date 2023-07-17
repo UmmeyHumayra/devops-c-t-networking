@@ -3,6 +3,9 @@
 ### Assignment: 2 objectives: 
 1. Create two containers and connect them using vxlan
 
+Block diagram: 
+![Project Diagram]()
+
 ### Steps: 
 ####  Update linux ubuntu VM
 ```

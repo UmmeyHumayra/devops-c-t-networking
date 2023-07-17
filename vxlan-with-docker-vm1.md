@@ -1,4 +1,5 @@
 ## VM1 commands and output 
+```
 ummey_poney@vx-test-vm1:~$ ip a
 ```
 2: ens4: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc mq state UP group default qlen 1000
@@ -99,3 +100,4 @@ root@4e06b863f5bf:/# exit
 exit
 ```
 ummey_poney@vx-test-vm1:~$
+```
